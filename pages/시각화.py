@@ -41,7 +41,7 @@ st.text(' ')
 
 st.subheader(" · 연령대별 이탈분포")
 st.text(' ')
-image = Image.open("aa.png")
+image = Image.open("aa.PNG")
 st.image(image, width=1000) 
 import streamlit as st
 import numpy as np
